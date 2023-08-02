@@ -7,6 +7,6 @@
 - Tistory: <https://just-gomin.tistory.com/>
 - Notion: <https://www.notion.so/just-gomin/Just-gomin-b6003c9d41834bf7981c9b6bd071ba69?pvs=4>
 - Velog: <https://velog.io/@just_gomin>
-- Github Pages: -
+- Github Pages: <https://just-gomin.github.io/>
 
 ## 등록된 게시글들
