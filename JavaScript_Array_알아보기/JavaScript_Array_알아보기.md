@@ -6,11 +6,11 @@ JavaScript의 Array는 기본적인 자료 구조로, 다수의 데이터를 다
 
 [MDN Array 문서](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array) 의 순서와는 무관하게, 개인적으로 사용 빈도가 높은 순으로 그리고 언제 사용하는지를 정리해봤습니다.
 
-- [생성자 살펴보기]
-- [정렬 시키키]
-- [필터링 시키기]
-- [서로 다른 Array 함치기]
-- [원소 문자열로 엮기]
+- [생성자 살펴보기] : 포스팅 예정
+- [정렬 시키키] : 포스팅 예정
+- [필터링 시키기] : 포스팅 예정
+- [서로 다른 Array 함치기] : 포스팅 예정
+- [원소 문자열로 엮기] : 포스팅 예정
 
 ## 참고 자료
 
