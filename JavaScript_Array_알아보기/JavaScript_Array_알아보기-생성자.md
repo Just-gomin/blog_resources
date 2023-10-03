@@ -5,7 +5,7 @@
 ## []
 
 ```javascript
-let array = []; // []
+let array = []; // [], length: 0
 ```
 
 ## Array() constructor
