@@ -1,4 +1,4 @@
-# 💡 Array 정렬 & 필터링
+# 💡 Array sort & filter
 
 ## 📌 Array.prototype.sort
 
