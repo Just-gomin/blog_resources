@@ -12,9 +12,9 @@ JavaScript의 Array는 기본적인 자료 구조로, 다수의 데이터를 다
 
 </br>
 
-1. [배열의 생성자 살펴보기](./JavaScript_Array_알아보기-생성자.md)
+1. [배열의 생성자](./JavaScript_Array_알아보기-생성자.md)
 1. [배열의 sort & filter](./JavaScript_Array_알아보기-sort&filter.md)
-1. [배열을 스택 & 큐로 사용하기] : 포스팅 예정
+1. [배열을 스택 & 큐로 사용하기](./JavaScript_Array_알아보기-stack&queue.md)
 1. [배열의 순회] : 포스팅 예정
 
 </br>
