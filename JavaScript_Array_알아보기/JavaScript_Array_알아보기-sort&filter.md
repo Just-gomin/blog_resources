@@ -108,7 +108,7 @@ items: [
 
 ```
 
-## Array.prototype.filter()
+## 📌 Array.prototype.filter([predicate])
 
 ```typescript
 // file: typescript/lib/lib.es5.d.ts
